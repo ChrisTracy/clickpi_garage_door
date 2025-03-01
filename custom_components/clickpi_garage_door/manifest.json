@@ -1,0 +1,12 @@
+{
+    "domain": "clickpi_garage_door",
+    "name": "ClickPi Garage Door",
+    "documentation": "https://github.com/christracy/clickpi_garage_door_ha",
+    "issue_tracker": "https://github.com/christracy/clickpi_garage_door_ha",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@christracy"],
+    "config_flow": true,
+    "version": "1.0.0"
+  }
+  
