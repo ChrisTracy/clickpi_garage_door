@@ -8,7 +8,7 @@ You will need a contact sensor of some sort to use this integration properly (sh
 ## Installation
 
 1. Install [HACS](https://www.hacs.xyz/docs/use/) if you haven't already
-2. Add custom repository `https://github.com/christracy/clickpi_garage_door_ha` as "Integration" by clicking the three dots at the top right of HACS
+2. Add custom repository `https://github.com/christracy/clickpi_garage_door` as "Integration" by clicking the three dots at the top right of HACS
 3. Find and install "ClickPi Garage Door" integration in HACS's store
 4. Restart your Home Assistant
 5. Navigate to Settings > Devices & services > Add Integration > ClickPi Garage Door
