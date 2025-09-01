@@ -6,6 +6,6 @@
     "documentation": "https://github.com/christracy/clickpi_garage_door_ha",
     "iot_class": "local_polling",
     "issue_tracker": "https://github.com/ChrisTracy/clickpi_garage_door_ha/issues",
-    "version": "1.0.0"
+    "version": "1.0.1"
   }
   
